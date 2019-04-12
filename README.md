@@ -1,7 +1,7 @@
 # 微信公众号开发SDK
 # composer操作
 - 1. cmd到项目的根目录
-- 2. 执行composer require leijiongbin/wechat-api-sdk
+- 2. 执行composer require leijiongbin/wechat
 
 # 项目头部引用
 ```use leijiongbin\wechat\Api;```
