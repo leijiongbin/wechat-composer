@@ -8,8 +8,6 @@
  * - 转发到多客服接口
  * - 支持消息加解密方式的明文模式、兼容模式、安全模式
  * - 支持接入微信公众平台
- *
- * @link https://github.com/gaoming13/wechat-php-sdk
  */
 
 namespace wechat;
