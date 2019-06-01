@@ -79,8 +79,6 @@ class FileCache {
 
 	/**
 	 * 获取缓存文件名
-	 * @dateTime 2018-01-29T14:32:49+0800
-	 * @author xm
 	 * @return   [type]                   [description]
 	 */
 	public function getCacheKey($name)
